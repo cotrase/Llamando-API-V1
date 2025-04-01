@@ -7,5 +7,6 @@
     <h3><?= $title ?> - <?= $until_message; ?></h3>
     <p>Fecha de estreno: <?= $release_date; ?></p>
     <p>La siguiente es: <?= $following_production; ?></p>
+    <p>ola irma</p>
   </hgroup>
 </main>
